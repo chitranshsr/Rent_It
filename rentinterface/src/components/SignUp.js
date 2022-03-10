@@ -20,6 +20,9 @@ function SignUp() {
         <div class="form__group">
         &nbsp;  <input type="password" placeholder="Password" class="form__input" />
         </div>
+        <div class="form__group">
+        &nbsp;  <input type="password" placeholder=" Confirm Password" class="form__input" />
+        </div>
         <br/>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button class="btn btn-primary" type="button">Register</button>
         <br/>
