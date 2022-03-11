@@ -14,7 +14,7 @@ function App() {
   return (
     <BrowserRouter>
      <Routes>
-    <Route path="/" element={
+    <Route path="/home" element={
       <>
       <Navbar />
       <Carousel/>
@@ -23,12 +23,12 @@ function App() {
     }>
      
     </Route>
-    <Route path="signin" element={
+    <Route path="/signin" element={
  <SignIn/>
     }>
      
     </Route>
-    <Route path="signup" element={
+    <Route path="/signup" element={
        <SignUp/>
     }>
       
