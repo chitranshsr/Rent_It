@@ -173,6 +173,16 @@ export default class Register extends Component {
                     validations={[required, vpassword]}
                   />
                 </div>
+                <div className="form-group">
+                  <label htmlFor="password">Confirm Password</label>
+                  <Input
+                    type="password"
+                    className="form-control"
+                    name="password"
+                   
+                    validations={[required, vpassword]}
+                  />
+                </div>
 
                 <div className="form-group">
                   <button className="btn btn-primary btn-block">Sign Up</button>

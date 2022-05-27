@@ -1,6 +1,6 @@
 label {
   display: block;
-  margin-top: 10px;
+ 
 }
 
 .card-container.card {
@@ -29,4 +29,11 @@ label {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
+  background-image: url("images/icon.jpeg");
 }
+.navba{
+  top:0;
+  position:sticky;
+}
+/* 
+Products ppage styling */

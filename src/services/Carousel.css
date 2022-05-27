@@ -1,0 +1,61 @@
+
+.slider-wrapper{
+    height: 100vh;
+}
+.thumbs{
+    display: none;
+}
+
+h1{ 
+    text-align: center;
+    color: #1ECD97;
+    font: bold 50px Arial;
+    padding: 10px;
+    border-bottom: 1px solid;
+    width: 250px;
+    margin: 0 auto 25px;
+  }
+  
+  .toggles{ 
+    width: 800px;
+    margin: auto;
+    display: block;
+    
+    clear: both;
+    overflow: hidden;
+  }
+  
+  button{
+    border: 2px solid #182924;
+    border-radius: 40px; 
+    color: #2c8a6c;
+    display: block;
+    float: left;
+    margin: auto;
+    padding: 10px;
+    width: 150px;
+    cursor: pointer;
+    font-size: 14px; 
+    margin: 0 5px;
+  }
+  
+  .posts{
+     width: 800px;
+     margin: 2em auto;
+  }
+    .div{
+     
+      width: 245px; 
+      height: 250px;
+      float: left;
+      margin: 10px; 
+      display: block;
+      text-align: center;
+      background: #1ECD97;
+      color: #fff; 
+    }
+  
+      
+  
+  
+  

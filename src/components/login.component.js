@@ -130,14 +130,15 @@ export default class Login extends Component {
                 <span>Login</span>
               </button>
             </div>
-
-            {this.state.message && (
-              <div className="form-group">
+           {this.state.message && (
+               <div className="msg" style={{marginTop: "4rem" }}>
+           
                 <div className="alert alert-danger" role="alert">
                   {this.state.message}
                 </div>
               </div>
             )}
+            
             <CheckButton
               style={{ display: "none" }}
               ref={c => {
