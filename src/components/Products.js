@@ -14,8 +14,8 @@ function Products() {
   </div>
   <div class="row">
     <div class="col-4">
-      <img src="https://i.ibb.co/47Sk9QL/product-1.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/qMk01Jx/product-1.jpg" alt="" />
+      <h4>Sofa</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -27,8 +27,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/b7ZVzYr/product-2.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/VQQ46wC/product-2.jpg" alt="" />
+      <h4>Table</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -40,8 +40,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/KsMVr26/product-3.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/x3w42qC/product-3.jpg" alt="" />
+      <h4>Chair</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -53,8 +53,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/0cMfpcr/product-4.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/QQbtvDz/product-4.jpg" alt="" />
+      <h4>Bed</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -68,8 +68,8 @@ function Products() {
 
   <div class="row">
     <div class="col-4">
-      <img src="https://i.ibb.co/47Sk9QL/product-1.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/gVBRtzr/product-1.jpg" alt="" />
+      <h4>Almirah</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -81,8 +81,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/b7ZVzYr/product-2.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/Nrth7Bf/product-2.jpg" alt="" />
+      <h4>Curtains</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -94,8 +94,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/KsMVr26/product-3.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/Lvb95Wb/product-3.jpg" alt="" />
+      <h4>Wooden Desk</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -107,8 +107,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/0cMfpcr/product-4.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/gd8LmM5/product-4.jpg" alt="" />
+      <h4>Painting</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -122,8 +122,8 @@ function Products() {
 
   <div class="row">
     <div class="col-4">
-      <img src="https://i.ibb.co/bQ5t8bR/product-5.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/qMk01Jx/product-1.jpg" alt="" />
+      <h4>Sofa</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -135,8 +135,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/vVpTyBD/product-6.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/VQQ46wC/product-2.jpg" alt="" />
+      <h4>Table</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -148,8 +148,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/hR5FGwH/product-7.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/x3w42qC/product-3.jpg" alt="" />
+      <h4>Chair</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -161,8 +161,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/QfCgdXZ/product-8.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/QQbtvDz/product-4.jpg" alt="" />
+      <h4>Bed</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -173,11 +173,12 @@ function Products() {
       <p>₹500.00</p>
     </div>
   </div>
+
 
   <div class="row">
     <div class="col-4">
-      <img src="https://i.ibb.co/nw5xZwk/product-9.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/gVBRtzr/product-1.jpg" alt="" />
+      <h4>Almirah</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -189,8 +190,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/9HCsmjf/product-10.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/Nrth7Bf/product-2.jpg" alt="" />
+      <h4>Curtains</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -202,8 +203,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/JQ2MBHR/product-11.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/Lvb95Wb/product-3.jpg" alt="" />
+      <h4>Wooden Desk</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -215,8 +216,8 @@ function Products() {
     </div>
 
     <div class="col-4">
-      <img src="https://i.ibb.co/nRZMs6Y/product-12.jpg" alt="" />
-      <h4>Red Printed T-shirt</h4>
+      <img src="https://i.ibb.co/gd8LmM5/product-4.jpg" alt="" />
+      <h4>Painting</h4>
       <div class="rating">
         <i class="fas fa-star"></i>
         <i class="fas fa-star"></i>
@@ -227,6 +228,7 @@ function Products() {
       <p>₹500.00</p>
     </div>
   </div>
+
 
   
 </div>
