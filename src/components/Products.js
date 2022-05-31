@@ -1,6 +1,8 @@
 import React from 'react'
 // import productjs from './ProductsJs';
 import '../services/product.css'
+
+
 function Products() {
   return (
     <>
@@ -24,6 +26,7 @@ function Products() {
         <i class="far fa-star"></i>
       </div>
       <p>₹500.00</p>
+      <button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -36,7 +39,7 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -49,7 +52,7 @@ function Products() {
         <i class="fas fa-star"></i>
         <i class="fas fa-star-half-alt"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -62,7 +65,7 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
   </div>
 
@@ -77,7 +80,7 @@ function Products() {
         <i class="fas fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -90,7 +93,7 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -103,7 +106,7 @@ function Products() {
         <i class="fas fa-star"></i>
         <i class="fas fa-star-half-alt"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -116,7 +119,7 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
   </div>
 
@@ -131,7 +134,7 @@ function Products() {
         <i class="fas fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -144,7 +147,8 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
+    
     </div>
 
     <div class="col-4">
@@ -157,7 +161,7 @@ function Products() {
         <i class="fas fa-star"></i>
         <i class="fas fa-star-half-alt"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -170,7 +174,7 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
   </div>
 
@@ -186,7 +190,7 @@ function Products() {
         <i class="fas fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -199,7 +203,7 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -212,7 +216,7 @@ function Products() {
         <i class="fas fa-star"></i>
         <i class="fas fa-star-half-alt"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
 
     <div class="col-4">
@@ -225,7 +229,7 @@ function Products() {
         <i class="far fa-star"></i>
         <i class="far fa-star"></i>
       </div>
-      <p>₹500.00</p>
+      <p>₹500.00</p><button>Shop Now</button>
     </div>
   </div>
 
