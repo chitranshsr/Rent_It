@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Redirect } from "react-router-dom";
 import AuthService from "../services/auth.service";
-import CarouselComponent from "./CarouselComponent";
+import CarouselComponent from "./carousel";
 import Categories from "./Categories";
 import Footer from "./Footer";
 import Reviews from "./Reviews";

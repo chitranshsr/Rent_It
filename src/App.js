@@ -5,12 +5,19 @@ import "./App.css";
 
 import AuthService from "./services/auth.service";
 
-import Login from "./components/login.component";
-import Register from "./components/register.component";
-
-import Profile from "./components/profile.component";
+import Login from "./components/login";
+import Register from "./components/register";
+import Profile from "./components/profile";
 import EventBus from "./common/EventBus";
-import Products from "./components/Products";
+
+
+import UpdateProduct from './components/UpdateProduct';
+import ListProduct from './components/ListProduct';
+import CreateProduct from './components/CreateProduct';
+import ViewProduct from './components/ViewProduct';
+
+
+
 
 class App extends Component {
   constructor(props) {
@@ -67,8 +74,6 @@ class App extends Component {
             </li>
 
            
-
-           
           </div>
 
           {currentUser ? (
@@ -102,12 +107,19 @@ class App extends Component {
         </nav>
       </div>
         <div className="container mt-3">
-          <Switch>
+           <Switch>
             <Route exact path= "/home" component={Login } />
             <Route exact path={["/","/login"]} component={Login} />
             <Route exact path="/register" component={Register} />
             <Route exact path="/profile" component={Profile} />
-            <Route exact path="/products" component={Products} />
+            
+           
+           
+            <Route path = "/update-product/:id" component = {UpdateProduct}></Route>
+            <Route path ="/products" render={ () => <ListProduct/>} />
+            <Route path = "/add-product/:id" component = {CreateProduct}></Route>
+            <Route path = "/view-product/:id" component = {ViewProduct}></Route>
+           
           </Switch>
         </div>
 
