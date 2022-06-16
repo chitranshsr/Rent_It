@@ -3,7 +3,7 @@ import Form from "react-validation/build/form";
 import Input from "react-validation/build/input";
 import CheckButton from "react-validation/build/button";
 import { isEmail } from "validator";
-
+import  '../App.css'
 import AuthService from "../services/auth.service";
 
 const required = value => {
@@ -121,7 +121,10 @@ export default class Register extends Component {
   }
 
   render() {
+    
     return (
+  
+
       <div className="col-md-12">
         <div className="card card-container">
           <img
@@ -173,25 +176,16 @@ export default class Register extends Component {
                     validations={[required, vpassword]}
                   />
                 </div>
-                <div className="form-group">
-                  <label htmlFor="password">Confirm Password</label>
-                  <Input
-                    type="password"
-                    className="form-control"
-                    name="password"
-                   
-                    validations={[required, vpassword]}
-                  />
-                </div>
+             
 
                 <div className="form-group" >
-                  <button className="btn btn-primary btn-block">Sign Up</button>
+                  <button className="btn btn-primary btn-block" >Sign Up</button>
                 </div>
               </div>
             )}
-
+          
             {this.state.message && (
-              <div className="form-group" style={{marginTop: "4rem" }}>
+              <div className="form-group" >
                 <div
                   className={
                     this.state.successful

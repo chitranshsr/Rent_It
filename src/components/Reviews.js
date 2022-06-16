@@ -11,7 +11,7 @@ export default function Reviews() {
     <ul className="hash-list cols-3 cols-1-xs pad-30-all align-center text-sm">
         <li>
           <img src="https://bootdey.com/img/Content/avatar/avatar1.png" className="wpx-100 img-round mgb-20" title="" alt="" data-edit="false" data-editor="field" data-field="src[Image Path]; title[Image Title]; alt[Image Alternate Text]"/>
-          <p className="fs-110 font-cond-l" >"" Best In The Rent Furniture Section. "</p>
+          <p className="fs-110 font-cond-l" >" Best In The Rent Furniture Section. "</p>
           <h5 className="font-cond mgb-5 fg-text-d fs-130" >Mathew</h5>
           <small className="font-cond case-u lts-sm fs-80 fg-text-l" >Business Man - New York</small>
         </li>

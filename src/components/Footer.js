@@ -21,10 +21,10 @@ export default class Footer extends Component {
         <br/>
         <div className="border1"></div> 
           <ul>
-            <a href="#" alt=""><li>Home</li></a>
-            <a href="#"alt=""><li>Products</li></a>
-            <a href="#" alt=""><li>Contact</li></a>
-            <a href="#" alt=""><li>About</li></a>
+            <a href="/products" alt=""><li>Home</li></a>
+            <a href="/products"alt=""><li>Products</li></a>
+            <a href="/products" alt=""><li>Contact</li></a>
+            <a href="/products" alt=""><li>About</li></a>
           </ul>
       </div>
   
@@ -33,10 +33,10 @@ export default class Footer extends Component {
         <br/>
         <div className="border1"></div>  
           <ul>
-            <a href="#" alt=""><li>Home</li></a>
-            <a href="#" alt=""><li>Office</li></a>
-            <a href="#" alt=""><li>Electronics</li></a>
-            <a href="#" alt=""><li>Fitness</li></a>
+            <a href="/products" alt=""><li>Home</li></a>
+            <a href="/products" alt=""><li>Office</li></a>
+            <a href="/products" alt=""><li>Electronics</li></a>
+            <a href="/products" alt=""><li>Fitness</li></a>
           </ul>
       </div>
       <div className="footer-items">
